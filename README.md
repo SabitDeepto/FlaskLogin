@@ -33,3 +33,6 @@
 1. Click on Signup from the menubar
 2. Register your account and it will redirect to Login Page
 3. Give Username and password to enter into the Dashboard
+
+
+:metal: Enjoy :metal:
