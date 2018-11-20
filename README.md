@@ -6,7 +6,7 @@
    * source venv/bin/activate
    * (venv) $ pip install flask
    * (venv) $ python
-   * mport flask
+   * import flask
    * (>>>) 
    * (if you are on this position you have perfectly installed Flask with Virtual Environment)
    
@@ -18,5 +18,12 @@
     
 4. Install Flask SQLAlchemy
     * pip install flask_sqlalchemy
+
+5. Install Flask Login
+    * pip install flask_login
     
 
+## Login/Logout
+1. Click on Signup from the menubar
+2. Register your account and it will redirect to Login Page
+3. Give Username and password to enter into the Dashboard
