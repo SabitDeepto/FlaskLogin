@@ -6,9 +6,9 @@
    * source venv/bin/activate
    * (venv) $ pip install flask
    * (venv) $ python
-   * >>> import flask
+   * >>>import flask
    * >>> 
-      *(if you are on this position you have perfectly installed Flask with Virtual Environment)
+   * (if you are on this position you have perfectly installed Flask with Virtual Environment)
 2. Install Flask
 3. Install Flask_Bootstrap
 4. Install Flask_wtf
