@@ -25,10 +25,10 @@
 ## How to run 
 1. open terminal and type 
     > source venv/bin/activate
-    > (venv) [ this will be appeared]
+    * (venv) [ this will be appeared]
 2. go to the project directory
 3. finally type
-    > (venv) python app.py 
+    >  python app.py 
 ## Login/Logout
 1. Click on Signup from the menubar
 2. Register your account and it will redirect to Login Page
