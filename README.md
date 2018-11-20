@@ -6,10 +6,17 @@
    * source venv/bin/activate
    * (venv) $ pip install flask
    * (venv) $ python
-   * >>>import flask
-   * >>> 
+   * mport flask
+   * (>>>) 
    * (if you are on this position you have perfectly installed Flask with Virtual Environment)
-2. Install Flask
-3. Install Flask_Bootstrap
-4. Install Flask_wtf
-5. Install Flask_SQLAlchemy
+   
+2. Install Flask Wtf
+    * pip install flask_wtf
+    
+3. Install Flask Bootstrap
+    * pip install flask_bootstrap
+    
+4. Install Flask SQLAlchemy
+    * pip install flask_sqlalchemy
+    
+
