@@ -22,7 +22,9 @@
 5. Install Flask Login
     * pip install flask_login
     
-
+## How to run 
+1. open terminal and type 
+> source venv/bin/activate
 ## Login/Logout
 1. Click on Signup from the menubar
 2. Register your account and it will redirect to Login Page
